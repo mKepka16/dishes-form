@@ -12,6 +12,9 @@
 ``` 
 
 ### Project preview
+
+See the preview right now -> [click](https://645f5c275d7902262e98b736--enchanting-pudding-eefb7d.netlify.app/)
+
 ![Screenshot](assets/app.png)
 
 ### Libraries
