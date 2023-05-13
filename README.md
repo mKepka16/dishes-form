@@ -1,21 +1,29 @@
-# vite React TypeScript tailwindcss starter
+# Dish Form 
 
-Template for vite, React + tailwindcss + TypeScript projects with some tools preconfigured.
+## How to set up the project
 
-## About
+- Node version: 16.14.2
+- npm version: 8.5.0 (project uses yarn)
+- download repository
+```bash
+  cd dishes-form
+  yarn
+  yarn dev
+``` 
 
-Template for vite, React + tailwindcss + TypeScript projects with some tools preconfigured.
-
-![Screenshot](assets/screenshot.png)
+### Project preview
+![Screenshot](assets/app.png)
 
 ### Libraries
 
-- [Jest 29](https://jestjs.io/)
 - [React 18](https://reactjs.org/)
 - [tailwindcss 3](https://tailwindcss.com/)
   - [tailwindcss forms plugin](https://tailwindcss-forms.vercel.app/)
 - [TypeScript 4.9.5](https://www.typescriptlang.org/)
 - [vite 4](https://vitejs.dev/)
+- [Yup](https://www.npmjs.com/package/yup)
+- [React Formik](https://formik.org/)
+- [Axios](https://axios-http.com/docs/intro)
 
 ### Tools
 
@@ -25,16 +33,7 @@ Template for vite, React + tailwindcss + TypeScript projects with some tools pre
 - [eslint 8](https://eslint.org/)
 - [husky 8](https://typicode.github.io/husky/#/)
 - [Prettier 2](https://prettier.io/)
-- [VS Code settings](https://code.visualstudio.com/)
 
-## Usage
 
-Create a new project from this template by clicking the "Use this template" button:
+### Time it took to make this project: `5h`
 
-![](assets/template-usage.png)
-
-```bash
-yarn
-yarn dev
-yarn test
-```
